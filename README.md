@@ -26,18 +26,6 @@ This app helps candidates evaluate their resume against a job description and ge
 - Poppler (for PDF processing)
 
 ---
-
-## 📁 Project Structure
-ATS-Resume-Checker/
-│── app.py
-│── packages.txt
-│── requirements.txt
-│── .env
-└── README.md
-
-
----
-
 ## ⚙️ Setup Instructions 
 ### 1️⃣ Clone the repository
 ```bash
@@ -59,10 +47,42 @@ Create a .env file:
 ```bash
 GOOGLE_API_KEY=your_api_key_here
 ```
-### 5️⃣ Run the app
+### Usage
+
+Run the Streamlit app locally:
 ```bash
 streamlit run app.py
 ```
-### 🌐 Deployment (Streamlit Cloud)
+* Enter the Job Description.
 
+* Upload your Resume (PDF).
 
+* Click the desired button:
+
+* Tell Me About the Resume
+
+* Percentage Match
+
+* How Can I Improvise My Skills
+
+* Optimize the Resume
+
+* Recommend Job Roles
+
+* Get AI-generated insights instantly.
+
+### Dependencies
+
+* Python 3.10+
+
+* Streamlit
+
+* Google Generative AI (google-generativeai)
+
+* pdf2image
+
+* Pillow
+
+* PyMuPDF (fitz)
+
+* python-dotenv
