@@ -1,5 +1,5 @@
-#Demo
-https://ats-resume-checker-4jdscg2fw7bmdj52ntjk8l.streamlit.app/
+## Demo
+https://free-ats-resume-checker.streamlit.app/
 # ATS Resume Checker 📄✅
 
 An AI-powered **ATS (Applicant Tracking System) Resume Analyzer** built using **Streamlit** and **Google Gemini**.  
