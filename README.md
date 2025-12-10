@@ -86,3 +86,18 @@ streamlit run app.py
 * PyMuPDF (fitz)
 
 * python-dotenv
+## Contribution
+Contributions to the ATS Resume Checker project are welcome. To contribute:
+
+* Fork the repository.
+* Create a new branch (git checkout -b feature-branch).
+* Make your changes and commit them (git commit -m 'Add some feature').
+* Push to the branch (git push origin feature-branch).
+* Open a pull request.
+## License
+This project is licensed under the MIT License. See the LICENSE file for more details.
+
+## Acknowledgments
+Thanks to Google for providing the Generative AI API.
+Special thanks to the Streamlit team for their user-friendly web application framework.
+For any questions or issues, please open an issue in the repository.
